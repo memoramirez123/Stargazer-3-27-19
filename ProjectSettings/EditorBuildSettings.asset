@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Main Menu.unity
+    guid: 3b56d84c76864b14da00661a41fc1818
+  - enabled: 1
+    path: Assets/Levels/Level 1.unity
+    guid: b8f049749a450214ea490c290a66a218
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: 4edca9e6e91e77046a98c08650a60905
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 7a014dd72aa985d4a8f46bd7d40c033f
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: d4fe11fced02f64409004e5a3cdbfc33
+  - enabled: 0
+    path: Assets/Levels/tmp4also.unity
+    guid: b69f149965c809245a372c4fbf965c9a
+  - enabled: 1
+    path: Assets/Levels/Level 5.unity
+    guid: 40417a5fb7989274a9a917dddcf1d83e
+  - enabled: 1
+    path: Assets/Levels/level 6.unity
+    guid: 148b5f513afcd0c4f962771723b946ea
+  - enabled: 0
+    path: Assets/Levels/Level 16.unity
+    guid: e2e89cbdd2c61bd43a331188d1863980
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Levels/tmp 4.unity
+    guid: c55fa14f1f5ef1a4aae333aa9748f585
+  - enabled: 0
+    path: Assets/Levels/Success.unity
+    guid: 2c3904bcf59cb8d46a9fc2e59da54ec2
+  - enabled: 0
+    path: Assets/Levels/also tmp 4.unity
+    guid: 73e2fe973e216404eacd59e1ea5eec20
+  m_configObjects: {}
